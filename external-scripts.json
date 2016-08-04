@@ -8,5 +8,6 @@
   "hubot-shipit",
   "hubot-pager-me",
   "hubot-reload-scripts",
-  "hubot-leankit"
+  "hubot-leankit",
+  "hubot-stackstorm"
 ]
